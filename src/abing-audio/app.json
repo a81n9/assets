@@ -1,0 +1,14 @@
+{
+  "pwd": "061ff19beafabe189ac181911445d055",
+  "version": "1.1.0",
+  "des": [
+    "<div class=\"text-grey q-pt-sm\">20240717 @ABing</div>",
+    "<div class=\"text-grey q-pb-sm\">此次更新为强制更新</div>",
+    "- APP 图标更换",
+    "- QQ 音乐解析策略调整",
+    "- 网易云音乐解析策略调整",
+    "- 网易云歌单导入异常修复"
+  ],
+  "force": true,
+  "url": "https://gitee.com/aaabingbingbing/app-assets/releases/download/abing-audio/abing-audio-v{version}.apk"
+}
